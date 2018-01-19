@@ -5,7 +5,7 @@ renderMode: raw
 
 backend:
   name: github
-  repo: 'Set Github repo as user/repo here'
+  repo: erquhart/OrchidStarter
   branch: master
 
 publish_mode: editorial_workflow
